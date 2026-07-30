@@ -1,1 +1,1 @@
-print("this is cart page")
+print("this is search page")
